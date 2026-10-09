@@ -75,3 +75,10 @@ crud-inventaris/
   untuk mencegah XSS.
 - Constraint FK (`ON DELETE RESTRICT`) mencegah kategori/supplier terhapus selama masih
   dipakai oleh produk — jaga integritas data.
+
+
+## ScreenShoot 
+
+![Gambar](Gambar/Screenshot%201.png)
+![Gambar](Gambar/Screenshot%202.png)
+![Gambar](Gambar/Screenshot%203.png)
